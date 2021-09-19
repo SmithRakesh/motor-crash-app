@@ -1,1 +1,1 @@
-# motor-crash-app
+# please switch to master branch
