@@ -2,10 +2,10 @@
 
 ## An app showing the information of accidents happened
 
-## libraries & frameworks
-* React,
-* Redux,
-* Styled Components,
+## libraries & framework
+* React
+* Redux
+* Styled Components
 * react-router-dom
 * axios
 * redux thunk
